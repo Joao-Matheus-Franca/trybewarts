@@ -9,7 +9,7 @@
 * As imagens desse projeto foram disponibilizadas pela Trybe
 ## 🎯 Objetivos: 
 * Aplicar o versionamento de códigos com o uso dos princípios do Git e GitHub
-* Criar um formulário Web através dos fundamentos do HTML, CSS e JavaScript  
+* Criar um formulário Web através dos fundamentos de HTML, CSS e JavaScript  
 ## 🖥️ Tecnologias:
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 alt="Git icon"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height=40 alt="Github icon"/>
