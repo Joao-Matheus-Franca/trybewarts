@@ -6,7 +6,8 @@
 <a href="https://github.com/BrunoSayago">Bruno Sayago</a>,
 <a href="https://github.com/IgorArecippo">Igor Arecippo</a> e
 <a href="https://github.com/Joao-Matheus-Franca">João Matheus Franca</a>
-* As imagens desse projeto foram disponibilizadas pela Trybe
+* As imagens desse projeto foram disponibilizadas pela
+<a href="https://www.betrybe.com/">Trybe</a>
 ## 🎯 Objetivos: 
 * Aplicar o versionamento de códigos com o uso dos princípios do Git e GitHub
 * Criar um formulário Web através dos fundamentos de HTML, CSS e JavaScript  
