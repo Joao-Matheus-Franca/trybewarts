@@ -9,7 +9,6 @@
 * As imagens desse projeto foram disponibilizadas pela
 <a href="https://www.betrybe.com/">Trybe</a>
 ## 🎯 Objetivos: 
-* Aplicar o versionamento de códigos com o uso dos princípios do Git e GitHub
 * Criar um formulário Web através dos fundamentos de HTML, CSS e JavaScript  
 ## 🖥️ Tecnologias:
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 alt="Git icon"/>
@@ -18,6 +17,7 @@
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=40 alt="CSS icon"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40 alt="JavaScript icon"/>
 ## 🧠 Desafios e aprendizados:
+* Aplicar o versionamento de códigos com o uso dos princípios do Git e GitHub
 * Progredir nos ensinamentos de desenvolvimento Web aplicando os aprendizados em Hard Skills associados a princípios de Soft Skills para realização de um formulário Web em grupo
 ## 👨‍💻 Como executar: 
 ⚠️ Recomenda-se o download e utilização do Visual Studio Code com a extensão Live Server ⚠️
